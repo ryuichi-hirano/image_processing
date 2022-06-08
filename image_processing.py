@@ -28,7 +28,7 @@ if upload_file is not None:
     pass
         
         
-border_number = st.number_input('閾値を入力', min_value=0)
+border_number = st.number_input('閾値を入力', value=50)
         
 # 平面画像処理
 def imgfile2xy(filename):
