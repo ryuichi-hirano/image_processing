@@ -40,6 +40,7 @@ jupyter-core
 jupyterlab-pygments
 jupyterlab-widgets
 MarkupSafe
+matplotlib
 matplotlib-inline
 mistune
 nbclient
